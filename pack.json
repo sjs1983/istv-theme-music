@@ -1,0 +1,10 @@
+{
+  "name": "Am I Dreaming Instrumental Official Audio",
+  "description": "am i dreaming officail audio",
+  "author": "sjs1983",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
